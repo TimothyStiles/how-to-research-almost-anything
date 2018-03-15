@@ -57,7 +57,7 @@ Retrieve your article and download it.
 Now that you've been through my series on how to access millions of books, articles, and courses for free you should find a way to manage and cite your sources! I use zotero a lot because of it's firefox citation plugin and the ability to drag premade citations into papers. You can get started with [zotero here!](https://www.zotero.org/support/quick_start_guide)
 
 ## Conclusion
-This has been a part of my *How to Research Almost Anything* blog series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
+This has been a part of my *How to Research Almost Anything* tutorial series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
 
 1. [How to download tutorials and course material from youtube, edx, and coursera.](01-download-moocs.md)
 2. [How to find almost any book with libgen and the gutenburg project.](02-find-almost-any-book.md)

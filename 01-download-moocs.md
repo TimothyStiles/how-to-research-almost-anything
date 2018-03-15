@@ -73,11 +73,8 @@ coursera-dl -u user_email_address -p user_password link_to_coursera_course_you_s
 
 This should do the same thing as edx-dl. **Don't forget to unsubscribe from your coursera course unless you want to lose *$50* a month!**
 
-
-This has been a part of my *How to Research Almost Anything* blog series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
-
 ## Conclusion
-This has been a part of my *How to Research Almost Anything* blog series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
+This has been a part of my *How to Research Almost Anything* tutorial series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
 
 1. [How to download tutorials and course material from youtube, edx, and coursera.](01-download-moocs.md)
 2. [How to find almost any book with libgen and the gutenburg project.](02-find-almost-any-book.md)
