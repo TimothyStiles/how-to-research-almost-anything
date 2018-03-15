@@ -32,6 +32,8 @@ This has been a part of my *How to Research Almost Anything* tutorial series. Ch
 2. [How to find almost any book with libgen and the gutenburg project.](02-find-almost-any-book.md)
 3. [How to access almost any scientific article with sci-hub, unpaywall, and the openaccess button.](03-access-almost-any-scientific-paper.md)
 
+P.S If you've got anything to add please feel free to submit an issue or a pull request!
+
 how-to-research-almost-anything © by Timothy Stiles
 
 how-to-research-almost-anything is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
