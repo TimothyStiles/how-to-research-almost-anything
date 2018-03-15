@@ -15,7 +15,7 @@ In this post I'm going to show you how to access the world's greatest libraries 
 [Project Gutenburg](http://www.gutenberg.org/) is an attempt to catalog and distribute every book that is no longer under copyright and now within the public domain. It has novels like [Melville's Moby Dick](http://www.gutenberg.org/ebooks/2701), and poems by [Dickenson](http://www.gutenberg.org/ebooks/12242) in a wide variety of digital formats. With over 56,000 free ebooks all published before 1923 Project Gutenburg is a veritable archive of works that have fallen into the public domain. (Though double check which version you receive. I once accidentally read the abridged version of [Crime and Punishment](http://www.gutenberg.org/ebooks/2554)!)
 
 ## Libgen
-If Project Gutenburg is the stereotypical stuffy librarian that extoles the classics, [libgen](libgen.io) is the punk librarian trying to set the establishment on fire. You can find almost any popular book on there in a wide variety of formats there's only one catch: **you can't legally share almost anything you get from libgen.io**.
+If Project Gutenburg is the stereotypical stuffy librarian that extoles the classics, [libgen](libgen.io) is the punk librarian trying to set the establishment on fire. You can find almost any popular book on there in a wide variety of formats. There's only one catch: **you can't legally share almost anything you get from libgen.io**.
 
 Why is this? Well, copyright law in the United States *only forbids unlawful distribution of copyrighted materials. It doesn't forbid receiving those unlawfully distributed, copyrighted materials.*
 
@@ -23,7 +23,7 @@ This mean's that libgen is assuming a huge amount of liability in sharing these 
 
  Now **I am not a lawyer**. I may be wrong about this. Maybe there's some lawyer out there who agrees or disagrees with me. If any lawyer out there would like to follow up on this further please let me know.
 
- To use libgen just search via title, author, or ISBN. I'm sure you'll find something if it's not too esoteric. 
+To use libgen just search via title, author, or ISBN. I'm sure you'll find something if it's not too esoteric. 
 
 ## Conclusion
 This has been a part of my *How to Research Almost Anything* blog series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
