@@ -3,7 +3,7 @@
 by [@timothystiles](https://twitter.com/TimothyStiles)
 
 ## Introduction
-I wrote this tutorial series to help new community lab members get started with accessing MOOCs, textbooks, and scientific papers. It's geared towards biologist and computer scientists but anyone should be able to follow along if they've used the command line before (only required for the first tutorial). Follow along and learn how to access millions of books, papers, and MOOCs for free!
+I wrote this tutorial series to help new community lab members get started with accessing MOOCs, textbooks, and scientific papers. It's geared towards biologists and computer scientists but anyone should be able to follow along if they've used the command line before (only required for the first tutorial). Follow along and learn how to access millions of books, papers, and MOOCs for free!
 
 This series will teach you:
 
