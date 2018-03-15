@@ -36,7 +36,7 @@ The video will appear in your current directory which you check by running `pwd`
 
 
 ## edx-dl
-Edx is pretty great about making sure that all of their course material is freely available at no cost. They also have great intro classes like [W3c's Front-end basics intro](https://www.edx.org/school/w3cx) or [MIT's Intro Bio Class](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-7).
+Edx is pretty great about making sure that all of their course material is freely available at no cost. They also have great intro classes like [W3c's Front-end Basics Intro](https://www.edx.org/school/w3cx) or [MIT's Intro Bio Class](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-7).
 
 My community lab has a study group that follows along with [MIT's Intro Bio Class](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-7) but the course isn't alway available at certain points of the year and I like use edX courses like reference notes so naturally I thought it'd be good to show everyone how to archive these classes for later.
 
