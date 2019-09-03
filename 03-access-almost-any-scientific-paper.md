@@ -36,13 +36,13 @@ Have you ever tried to read an academic paper and you get paywalled?
 
 ![Nature Paywall](resources/nature_paywall.png)
 
-You could tried getting around it with the [open access](https://openaccessbutton.org/) or [unpaywall](https://unpaywall.org/) but if you're ever stumped or out of luck find your articles [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) and paste it into [sci-hub's search bar](http://sci-hub.la/) like so:
+You could tried getting around it with the [open access](https://openaccessbutton.org/) or [unpaywall](https://unpaywall.org/) but if you're ever stumped or out of luck find your articles [DOI](https://en.wikipedia.org/wiki/Digital_object_identifier) and paste it into [sci-hub's search bar](http://sci-hub.tw/) like so:
 
 Find the DOI on the page of the article you're trying to access.
 
 ![PLOS DOI](resources/plos-doi.png "hello")
 
-Copy it into [sci-hub](http://sci-hub.la/).
+Copy it into [sci-hub](http://sci-hub.tw/).
 
 ![SCI-HUB NO DOI](resources/sci-hub.png)
 
