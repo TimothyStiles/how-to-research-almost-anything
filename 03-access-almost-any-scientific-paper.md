@@ -50,7 +50,7 @@ Retrieve your article and download it.
 
 ![article](resources/article.png)
 
-**You now have access to 64.5 million research articles!** If sci-hub ever goes down or isn't work check [wikipedia to see what sci-hub links are currently working](https://en.wikipedia.org/wiki/Sci-Hub).
+**You now have access to 64.5 million research articles!** If sci-hub ever goes down or isn't working check [wikipedia to see what sci-hub links are currently working](https://en.wikipedia.org/wiki/Sci-Hub).
 
 ## Zotero - An Open Source Citation Manager
 
