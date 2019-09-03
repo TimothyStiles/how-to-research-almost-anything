@@ -19,7 +19,7 @@ If Project Gutenburg is the stereotypical stuffy librarian that extoles the clas
 
 Why is this? Well, copyright law in the United States *only forbids unlawful distribution of copyrighted materials. It doesn't forbid receiving those unlawfully distributed, copyrighted materials.*
 
-This mean's that libgen is assuming a huge amount of liability in sharing these books with you but unless you start sharing them too you haven't broken any laws.
+This means that libgen is assuming a huge amount of liability in sharing these books with you but unless you start sharing them too you haven't broken any laws.
 
  Now **I am not a lawyer**. I may be wrong about this. Maybe there's some lawyer out there who agrees or disagrees with me. If any lawyer out there would like to follow up on this further please let me know.
 
