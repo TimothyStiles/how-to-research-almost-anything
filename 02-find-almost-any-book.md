@@ -15,7 +15,7 @@ In this post I'm going to show you how to access the world's greatest libraries 
 [Project Gutenburg](http://www.gutenberg.org/) is an attempt to catalog and distribute every book that is no longer under copyright and now within the public domain. It has novels like [Melville's Moby Dick](http://www.gutenberg.org/ebooks/2701), and poems by [Dickenson](http://www.gutenberg.org/ebooks/12242) in a wide variety of digital formats. With over 56,000 free ebooks all published before 1923 Project Gutenburg is a veritable archive of works that have fallen into the public domain. (Though double check which version you receive. I once accidentally read the abridged version of [Crime and Punishment](http://www.gutenberg.org/ebooks/2554)!)
 
 ## Libgen
-If Project Gutenburg is the stereotypical stuffy librarian that extoles the classics, [libgen](libgen.io) is the punk librarian trying to set the establishment on fire. You can find almost any popular book on there in a wide variety of formats. There's only one catch: **you can't legally share almost anything you get from libgen.io**.
+If Project Gutenburg is the stereotypical stuffy librarian that extoles the classics, [libgen](http://libgen.is/) is the punk librarian trying to set the establishment on fire. You can find almost any popular book on there in a wide variety of formats. There's only one catch: **you can't legally share almost anything you get from libgen**.
 
 Why is this? Well, copyright law in the United States *only forbids unlawful distribution of copyrighted materials. It doesn't forbid receiving those unlawfully distributed, copyrighted materials.*
 
