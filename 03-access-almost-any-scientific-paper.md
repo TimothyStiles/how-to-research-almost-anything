@@ -28,7 +28,7 @@ Open access journals make all of their submitted articles freely avaialable to t
 Most cutting edge computer science work is published in conference preceedings which tend to be more open and made freely available. For example [NIPS makes all of their papers freely available online](https://papers.nips.cc/paper/6606-wider-and-deeper-cheaper-and-faster-tensorized-lstms-for-sequence-learning).
 
 ## Preprints
-Preprints are drafts of papers that get submitted to preprint servers for peers to review. There are almost always open access and on the cutting edge of research. They allow authors to establish precendence early, submit their papers to public review, and show off to potential publishers. Check out this [list of preprint servers by topic](https://researchpreprints.com/preprintlist/)! I'm personally a fan of [bioarxiv](https://www.biorxiv.org/).
+Preprints are drafts of papers that get submitted to preprint servers for peers to review. They are almost always open access and on the cutting edge of research. They allow authors to establish precendence early, submit their papers to public review, and show off to potential publishers. Check out this [list of preprint servers by topic](https://researchpreprints.com/preprintlist/)! I'm personally a fan of [bioarxiv](https://www.biorxiv.org/).
 
 ## Getting Around Paywalls
 
