@@ -1,4 +1,4 @@
-LOCUS       Exported                4521 bp    DNA     circular  24-SEP-2019
+LOCUS       banana.gbk              4521 bp    DNA     circular  24-SEP-2019
 DEFINITION  pUC cloning vector.
 ACCESSION   .
 VERSION     .
@@ -92,7 +92,7 @@ FEATURES             Location/Qualifiers
                      /label="ori"
                      /direction="RIGHT"
                      /note="high-copy-number ColE1/pMB1/pBR322/pUC origin ofreplication"
-     misc_feature    572..2406
+     CDS             572..2406
                      /label="banana gene"
 ORIGIN      
         1 gagataccta cagcgtgagc tatgagaaag cgccacgctt cccgaaggga gaaaggcgga
