@@ -5,7 +5,7 @@ by [@timothystiles](https://twitter.com/TimothyStiles)
 This is the third part of my tutorial series **How to Research Almost Anything**. This series will teach you:
 
 1. [How to download tutorials and course material from youtube, edx, and coursera.](01-download-moocs.md)
-2. [How to find almost any book with libgen and the gutenburg project.](02-find-almost-any-book.md)
+2. [How to find almost any book with libgen and the gutenberg project.](02-find-almost-any-book.md)
 3. [How to access almost any scientific article with sci-hub, unpaywall, and the openaccess button.](03-access-almost-any-scientific-paper.md)
 
 ## Introduction
@@ -60,7 +60,7 @@ Now that you've been through my series on how to access millions of books, artic
 This has been a part of my *How to Research Almost Anything* tutorial series. Check out the links below and be sure to follow me [@timothystiles](https://twitter.com/TimothyStiles) on twitter to get updates about my latest posts!
 
 1. [How to download tutorials and course material from youtube, edx, and coursera.](01-download-moocs.md)
-2. [How to find almost any book with libgen and the gutenburg project.](02-find-almost-any-book.md)
+2. [How to find almost any book with libgen and the gutenberg project.](02-find-almost-any-book.md)
 3. [How to access almost any scientific article with sci-hub, unpaywall, and the openaccess button.](03-access-almost-any-scientific-paper.md)
 
 P.S If you've got anything to add please feel free to submit an issue or a pull request!
